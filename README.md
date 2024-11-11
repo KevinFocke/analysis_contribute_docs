@@ -10,6 +10,9 @@ Usage instructions:
 cd analysis
 pipenv run main.py
 ```
+Result:
+
+![image](https://github.com/user-attachments/assets/7bda6d63-3ba0-4878-8e77-58f1eb89c3fc)
 
 --- Kept as-is below line.
 
