@@ -25,7 +25,8 @@
 				"andersonbruceb.json-in-html",
 				"usernamehw.errorlens",
 				"jeff-hykin.better-dockerfile-syntax",
-				"GitHub.vscode-github-actions"
+				"GitHub.vscode-github-actions",
+				"ms-python.python"
 			]
 		}
 	},
