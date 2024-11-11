@@ -1,3 +1,18 @@
+Analyzed how often documentation is contributed. Not mentioned in the original report:
+
+https://opensourcesurvey.org/2024/
+
+Analysis program in folder /analysis.
+
+Usage instructions:
+
+```
+cd analysis
+pipenv run main.py
+```
+
+--- Kept as-is below line.
+
 # The Open Source Survey
 
 [design]: https://github.com/github/open-source-survey/blob/master/design-principles.md
@@ -26,7 +41,7 @@ Thank you [Kenyatta Forbes](https://github.com/kenyatta-forbes), [Kevin Xu](http
 
 This survey is primarily designed and implemented by GitHub:
 
-- [@franniez](https://github.com/franniez) -  Data and social scientist at GitHub. New to open source but not to studying people or movements, she's done extensive survey research in Washington D.C, from inside the ivory tower, and within the technology sector. 
+- [@franniez](https://github.com/franniez) -  Data and social scientist at GitHub. New to open source but not to studying people or movements, she's done extensive survey research in Washington D.C, from inside the ivory tower, and within the technology sector.
 - [@arfon](https://github.com/arfon) - Program Manager for Open Source Data at GitHub. A lapsed academic with a passion for new models of scientific collaboration, he's used big telescopes to study dust in space, built sequencing technologies in [Cambridge](http://www.sanger.ac.uk/), and has engaged millions of people in online citizen science by co-founding the [Zooniverse](http://zooniverse.org).
 - [@mlinksva](https://github.com/mlinksva) - Open Source Maven at GitHub. A lapsed engineer and non-lawyer with a passion for increasing the efficacy and scope of open production and policy, he is an advisor/director/volunteer for various open initiatives and was previously a manager and technologist at Creative Commons.
 
