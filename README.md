@@ -7,6 +7,8 @@ Analysis program in folder /analysis.
 Usage instructions:
 
 ```
+git clone https://github.com/KevinFocke/analysis_documentation_contribution.git
+VsCode -> open folder in devcontainer.
 cd analysis
 pipenv run main.py
 ```
