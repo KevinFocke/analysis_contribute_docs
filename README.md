@@ -2,13 +2,17 @@ Analyzed how often documentation is contributed. Not mentioned in the original r
 
 https://opensourcesurvey.org/2024/
 
-Analysis program in folder /analysis.
+Program in the folder `/analysis`.
 
-Usage instructions:
+Usage instructions (VSCode editor):
 
 ```
 git clone https://github.com/KevinFocke/analysis_documentation_contribution.git
-VsCode -> open folder in devcontainer.
+```
+VSCode -> Dev Containers: Open Folder In Container. 
+If the prompt doesn't show up, open command panel with `Ctrl + Shift + P`.
+
+```
 cd analysis
 pipenv run main.py
 ```
@@ -16,7 +20,7 @@ Result:
 
 ![image](https://github.com/user-attachments/assets/7bda6d63-3ba0-4878-8e77-58f1eb89c3fc)
 
---- Kept as-is below line.
+--- Kept as-is below.
 
 # The Open Source Survey
 
